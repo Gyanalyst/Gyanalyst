@@ -1,6 +1,6 @@
 👋 Hi there, I’m Gyan Ashish
 
-👨🏻‍💻 A passionate Data Science aspirant.
+👨🏻‍💻 A Future Data Jedi.
 
 👀 I'm interested in full-time Data science / Data Analyst roles.
 
